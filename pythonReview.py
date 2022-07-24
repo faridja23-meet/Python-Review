@@ -1,3 +1,3 @@
 def create_youtube_video(title,description):
-	New = {}
-	
+	New_Vid = {"title":title, "description": description, "likes": likes, "dislikes": dislikes, "comments": {"Username": comments}} 
+	return (New_Vid)
